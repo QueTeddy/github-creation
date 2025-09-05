@@ -1,2 +1,4 @@
 git_creation/*
 git_creation
+__pycache__/*
+__pycache__
